@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<integer>1</integer>
+		<key>display_name</key>
+		<string>October Rain</string>
+		<key>sound_name</key>
+		<string>2_sound_rain_1</string>
+		<key>normal_icon</key>
+		<string>rain-icon</string>
+		<key>disabled_icon</key>
+		<string>rain-icon-disabled</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>2</integer>
+		<key>display_name</key>
+		<string>Coffee House</string>
+		<key>sound_name</key>
+		<string>0_sound_tea_1</string>
+		<key>normal_icon</key>
+		<string>cafe-icon</string>
+		<key>disabled_icon</key>
+		<string>cafe-icon-disabled</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>3</integer>
+		<key>display_name</key>
+		<string>Thunderstorm</string>
+		<key>sound_name</key>
+		<string>1_sound_thunder_1</string>
+		<key>normal_icon</key>
+		<string>thunderstorm-icon</string>
+		<key>disabled_icon</key>
+		<string>thunderstorm-icon-disabled</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>4</integer>
+		<key>display_name</key>
+		<string>Campfire</string>
+		<key>sound_name</key>
+		<string>3_sound_fire_1</string>
+		<key>normal_icon</key>
+		<string>fire-icon</string>
+		<key>disabled_icon</key>
+		<string>fire-icon-disabled</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>5</integer>
+		<key>display_name</key>
+		<string>Winter Wind</string>
+		<key>sound_name</key>
+		<string>5_sound_wind_1</string>
+		<key>normal_icon</key>
+		<string>wind-icon</string>
+		<key>disabled_icon</key>
+		<string>wind-icon-disabled</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>6</integer>
+		<key>display_name</key>
+		<string>Sea Waves</string>
+		<key>sound_name</key>
+		<string>4_sound_water_1</string>
+		<key>normal_icon</key>
+		<string>water-icon</string>
+		<key>disabled_icon</key>
+		<string>water-icon-disabled</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>7</integer>
+		<key>display_name</key>
+		<string>River Stream</string>
+		<key>sound_name</key>
+		<string>8_sound_river_1</string>
+		<key>normal_icon</key>
+		<string>river-icon</string>
+		<key>disabled_icon</key>
+		<string>river-icon-disabled</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>8</integer>
+		<key>display_name</key>
+		<string>Summer Night</string>
+		<key>sound_name</key>
+		<string>7_sound_night_1</string>
+		<key>normal_icon</key>
+		<string>night-icon</string>
+		<key>disabled_icon</key>
+		<string>night-icon-disabled</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>9</integer>
+		<key>display_name</key>
+		<string>Sunny Day</string>
+		<key>sound_name</key>
+		<string>6_sound_day_1</string>
+		<key>normal_icon</key>
+		<string>forest-icon</string>
+		<key>disabled_icon</key>
+		<string>forest-icon-disabled</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>10</integer>
+		<key>display_name</key>
+		<string>Deep Space</string>
+		<key>sound_name</key>
+		<string>9_sound_space_1</string>
+		<key>normal_icon</key>
+		<string>space-icon</string>
+		<key>disabled_icon</key>
+		<string>space-icon-disabled</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>11</integer>
+		<key>display_name</key>
+		<string>Sailing Yacht</string>
+		<key>sound_name</key>
+		<string>10_sound_yacht_1</string>
+		<key>normal_icon</key>
+		<string>steering-wheel-icon</string>
+		<key>disabled_icon</key>
+		<string>steering-wheel-icon-disabled</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>12</integer>
+		<key>display_name</key>
+		<string>Inside Train</string>
+		<key>sound_name</key>
+		<string>11_sound_train_1</string>
+		<key>normal_icon</key>
+		<string>rails-icon</string>
+		<key>disabled_icon</key>
+		<string>rails-icon-disabled</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>13</integer>
+		<key>display_name</key>
+		<string>On The Farm</string>
+		<key>sound_name</key>
+		<string>12_sound_farm_1</string>
+		<key>normal_icon</key>
+		<string>cow-icon</string>
+		<key>disabled_icon</key>
+		<string>cow-icon-disabled</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>14</integer>
+		<key>display_name</key>
+		<string>Wind Chimes</string>
+		<key>sound_name</key>
+		<string>13_sound_chimes_1</string>
+		<key>normal_icon</key>
+		<string>chimes-icon</string>
+		<key>disabled_icon</key>
+		<string>chimes-icon-disabled</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>15</integer>
+		<key>display_name</key>
+		<string>Blue Whales</string>
+		<key>sound_name</key>
+		<string>14_sound_whale_1</string>
+		<key>normal_icon</key>
+		<string>whale-icon</string>
+		<key>disabled_icon</key>
+		<string>whale-icon-disabled</string>
+	</dict>
+</array>
+</plist>
